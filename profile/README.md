@@ -1,0 +1,1 @@
+This is the Github Organization for the Systems Engineering Classical and Quantum Optimization for Industrial Applications (SECQUOIA) research group at the Davidson School of Chemical Engineering at Purdue University.
